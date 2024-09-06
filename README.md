@@ -1,3 +1,3 @@
 # Rock-Paper-Scissors-Game
 HTML,CSS,JAVASCRIPT
-https://github.com/Meghnad-Mahata/Rock-Paper-Scissors-Game.git
+https://meghnad-mahata.github.io/Rock-Paper-Scissors-Game/
